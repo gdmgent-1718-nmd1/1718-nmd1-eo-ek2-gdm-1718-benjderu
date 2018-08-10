@@ -16,3 +16,23 @@ img {
 }
 
 /* Voeg jouw css hieraan toe */
+
+table {
+    width: 100%;
+}
+
+th {
+    width: 50%;
+}
+
+th {
+    text-align: left;
+}
+
+.positief {
+    color: green;
+}
+
+.negatief {
+    color: red;
+}
