@@ -1,0 +1,12 @@
+body{
+    background-color: white; 
+    font-family: 'Roboto', sans-serif;
+}
+#titel{
+    font-size: 30pt;
+    color: rgb(109,12,74);
+}
+#tekst{
+    font-size: 12pt;
+    color: hsla(324,60%,57%,1);
+}
